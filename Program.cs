@@ -1,8 +1,7 @@
 ﻿using System;
 
-// Todo: Push to git
 // Todo: Use a Unit Test framework
-// Run on Raspberry PI
+// Test push
 
 namespace patternMatching  // Using vcDynamic Programming
 {
