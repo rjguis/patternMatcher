@@ -1,0 +1,11 @@
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\patternMatching.deps.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\patternMatching.runtimeconfig.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\patternMatching.runtimeconfig.dev.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\patternMatching.dll
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\patternMatching.pdb
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.csprojAssemblyReference.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.csproj.CoreCompileInputs.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.AssemblyInfoInputs.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.AssemblyInfo.cs
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.dll
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\patternMatching.pdb

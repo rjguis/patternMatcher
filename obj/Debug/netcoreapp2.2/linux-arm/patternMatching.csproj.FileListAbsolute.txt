@@ -1,0 +1,14 @@
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\libhostpolicy.so
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\libhostfxr.so
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching.deps.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching.runtimeconfig.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching.runtimeconfig.dev.json
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching.dll
+F:\src\patternMatching\bin\Debug\netcoreapp2.2\linux-arm\patternMatching.pdb
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.csprojAssemblyReference.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.csproj.CoreCompileInputs.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.AssemblyInfoInputs.cache
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.AssemblyInfo.cs
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.dll
+F:\src\patternMatching\obj\Debug\netcoreapp2.2\linux-arm\patternMatching.pdb
