@@ -34,7 +34,7 @@ namespace patternMatching
                 for (int patternIndex = 1; patternIndex <= patternLength; patternIndex++) {
                     //2 case we ither ignore * and move to next charact or * matches the current char
                     if (pattern[patternIndex-1] == '*'){
-                        lookup[textIndex, patternIndex] = lookup[textIndex,patternIndex-1] || lookup[textIndex-1, patternIndex];    // TODO: Don't understand this.
+                        lookup[textIndex, patternIndex] = lookup[textIndex,patternIndex-1] || lookup[textIndex-1, patternIndex];   
                     } else if (pattern[patternIndex-1]  == '?' || pattern[patternIndex-1 ] == text[textIndex-1]) {
                         // ? or chars really match
                         lookup[textIndex, patternIndex] = lookup[textIndex - 1, patternIndex - 1];
